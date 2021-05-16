@@ -1,0 +1,21 @@
+{
+    "name": "DarkHub",
+    "displayName": "DarkHub",
+    "description": "\"GitHub Default Dark + VS Code Default Dark\"",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkHub",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkHub-color-theme.json"
+            }
+        ]
+    }
+}

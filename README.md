@@ -1,13 +1,9 @@
 # README
-## This is the README for your extension "DarkHub"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Personally I found the GitHub Default Dark color theme very appealing but could not give up on the 
+syntax highlighting of Default Dark+ theme that VS Code ships with. So I decided to create my theme on my own. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## How to install the theme
+* More on that later. I'm feeling lazy!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**

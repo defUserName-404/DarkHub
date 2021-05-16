@@ -2,6 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "DarkHub",
 
+	// Taken from github_default_dark.json
 	"colors": {
 		"focusBorder": "#388bfd",
 		"foreground": "#c9d1d9",
@@ -177,6 +178,7 @@
 		"welcomePage.buttonHoverBackground": "#30363d"
 	},
 
+	// Syntax highlighting from dark_plus.json
 	"tokenColors": [
 		{
 			"scope": [
